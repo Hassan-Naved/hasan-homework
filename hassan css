@@ -1,0 +1,102 @@
+body{
+    background-image: url(https://images.pexels.com/photos/443446/pexels-photo-443446.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    
+    
+}
+
+.hassan{
+    
+    justify-content: center;
+}
+
+
+
+
+
+
+.header{
+    display: flex;
+    gap: 1px;
+    justify-content: center;
+}
+#jk{
+    border: 1px solid rgb(223, 226, 219);
+    height: 180px;
+    width: 300px;
+    
+}
+
+#ki{
+    border: 1px solid rgb(250, 250, 250);
+    height: 180px;
+    width: 300px;
+}
+#hn{
+    border: 1px solid rgb(254, 255, 252);
+    height: 180px;
+    width: 300px;
+}
+#bh{
+    border: 1px solid rgb(255, 255, 255);
+    height: 180px;
+    width: 300px;
+
+
+
+    
+}
+
+#bh{
+    border: 1px solid rgb(255, 255, 255);
+    height: 180px;
+    width: 300px;
+
+
+
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer{
+    display: flex;
+    gap: 1px;
+    justify-content: center;
+}
+#pakistan{
+    border: 1px solid rgb(255, 255, 255);
+    height: 180px;
+    width: 300px;
+    
+}
+#august{
+    border: 1px solid rgb(255, 255, 255);
+    height: 180px;
+    width: 300px;
+}
+#aanay{
+    border: 1px solid rgb(255, 255, 255);
+    height: 180px;
+    width: 300px;
+}
+#wala{
+    border: 1px solid rgb(255, 255, 255);
+    height: 180px;
+    width: 300px;
+}
+#hai{
+    
+}
